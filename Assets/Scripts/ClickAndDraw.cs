@@ -29,6 +29,18 @@ public class ClickAndDraw : MonoBehaviour
                 UpdateLine(tempMousePos);
             }
         }
+
+        GameObject CreateLineCollider(Vector3 point1, Vector3 point2, float width)
+        {
+            GameObject obj = new GameObject("LineCollider");
+            obj.transform.position = (point1 + point2) / 2;
+            obj.transform.right = (point2 - point1).normalized;
+
+            BoxCollider boxCollider = obj.AddComponent<BoxCollider>();
+            boxCollider.size = new Vector3((point2 - point1).magnitude, width, width);
+
+            return obj;
+        }
     }
 
     void CreateLine()
