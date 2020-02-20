@@ -13,77 +13,29 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-02-19T23:44:32.049-05:00
-  initializedAtString: 2020-02-19T21:57:00.932-05:00
+  lastUpdatedAtString: 2020-02-20T13:18:30.664-05:00
+  initializedAtString: 2020-02-20T13:18:30.664-05:00
   entries:
-  - path: .vs\Click-and-Drag\v16\.suo
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\.vs\Click-and-Drag\v16\.suo
-    projectPath: .vs\Click-and-Drag\v16\.suo
+  - path: Assembly-CSharp.csproj
+    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: .vs\Click-and-Drag\v16\Server\sqlite3\db.lock
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\.vs\Click-and-Drag\v16\Server\sqlite3\db.lock
-    projectPath: .vs\Click-and-Drag\v16\Server\sqlite3\db.lock
+  - path: Assets\Click and drag summary.txt
+    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Assets\Click and
+      drag summary.txt
+    projectPath: Assets\Click and drag summary.txt
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: .vs\Click-and-Drag\v16\Server\sqlite3\storage.ide
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\.vs\Click-and-Drag\v16\Server\sqlite3\storage.ide
-    projectPath: .vs\Click-and-Drag\v16\Server\sqlite3\storage.ide
+  - path: Assets\Click and drag summary.txt.meta
+    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Assets\Click and
+      drag summary.txt.meta
+    projectPath: Assets\Click and drag summary.txt.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: .vs\Click-and-Drag\v16\Server\sqlite3\storage.ide-shm
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\.vs\Click-and-Drag\v16\Server\sqlite3\storage.ide-shm
-    projectPath: .vs\Click-and-Drag\v16\Server\sqlite3\storage.ide-shm
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: .vs\Click-and-Drag\v16\Server\sqlite3\storage.ide-wal
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\.vs\Click-and-Drag\v16\Server\sqlite3\storage.ide-wal
-    projectPath: .vs\Click-and-Drag\v16\Server\sqlite3\storage.ide-wal
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Materials\Ball_Mat.mat
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Assets\Materials\Ball_Mat.mat
-    projectPath: Assets\Materials\Ball_Mat.mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Materials\Goal_Mat.mat
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Assets\Materials\Goal_Mat.mat
-    projectPath: Assets\Materials\Goal_Mat.mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Materials\Ground_Mat.mat
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Assets\Materials\Ground_Mat.mat
-    projectPath: Assets\Materials\Ground_Mat.mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Prefabs\Line .prefab
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Assets\Prefabs\Line
-      .prefab
-    projectPath: Assets\Prefabs\Line .prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scenes\Level 1.unity
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Assets\Scenes\Level
-      1.unity
-    projectPath: Assets\Scenes\Level 1.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\ClickAndDraw.cs
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Assets\Scripts\ClickAndDraw.cs
-    projectPath: Assets\Scripts\ClickAndDraw.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\assetDatabase3
     fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\assetDatabase3
     projectPath: Library\assetDatabase3
@@ -100,14 +52,8 @@ MonoBehaviour:
     fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\gfu\cache\gitstatusentries.yaml
     fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
@@ -126,195 +72,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\InspectorExpandedItems.asset
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\14\1454e61cdcab1944d9d8418b8c1eb5ae
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\metadata\14\1454e61cdcab1944d9d8418b8c1eb5ae
-    projectPath: Library\metadata\14\1454e61cdcab1944d9d8418b8c1eb5ae
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\39\392689bc970e98343907eef3e50310bc
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\metadata\39\392689bc970e98343907eef3e50310bc
-    projectPath: Library\metadata\39\392689bc970e98343907eef3e50310bc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\ScriptAssemblies\Assembly-CSharp.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.dll
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\ScriptAssemblies\Unity.Timeline.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\ScriptAssemblies\UnityEditor.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\ScriptAssemblies\UnityEngine.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ShaderCache\1\1bd1d9f71881e3f5dc67f60cce03ea9c.bin
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\ShaderCache\1\1bd1d9f71881e3f5dc67f60cce03ea9c.bin
-    projectPath: Library\ShaderCache\1\1bd1d9f71881e3f5dc67f60cce03ea9c.bin
+  - path: Library\metadata\a4\a42e858b2da9e4c468834accdfc13a4b
+    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\metadata\a4\a42e858b2da9e4c468834accdfc13a4b
+    projectPath: Library\metadata\a4\a42e858b2da9e4c468834accdfc13a4b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\ShaderCache\1\1f74e7a58e73b5400d5df22907c94cfb.bin
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\ShaderCache\1\1f74e7a58e73b5400d5df22907c94cfb.bin
-    projectPath: Library\ShaderCache\1\1f74e7a58e73b5400d5df22907c94cfb.bin
+  - path: Library\metadata\a4\a42e858b2da9e4c468834accdfc13a4b.info
+    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\metadata\a4\a42e858b2da9e4c468834accdfc13a4b.info
+    projectPath: Library\metadata\a4\a42e858b2da9e4c468834accdfc13a4b.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\ShaderCache\8\8696958a7af945607f63528611f5ba18.bin
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\ShaderCache\8\8696958a7af945607f63528611f5ba18.bin
-    projectPath: Library\ShaderCache\8\8696958a7af945607f63528611f5ba18.bin
+  - path: Temp\ProcessJobs\675f7315a8e628c76bd5cd85d6e446de.bakert
+    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Temp\ProcessJobs\675f7315a8e628c76bd5cd85d6e446de.bakert
+    projectPath: Temp\ProcessJobs\675f7315a8e628c76bd5cd85d6e446de.bakert
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\ShaderCache\EditorEncounteredVariants
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ShaderCache\f\fddbf8ed46e92bf55bada5bebbb7cfb7.bin
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\ShaderCache\f\fddbf8ed46e92bf55bada5bebbb7cfb7.bin
-    projectPath: Library\ShaderCache\f\fddbf8ed46e92bf55bada5bebbb7cfb7.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\shadercompiler-UnityShaderCompiler.exe1.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\shadercompiler-UnityShaderCompiler.exe2.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\SceneView\33cb56-mainStage.json
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\StateCache\SceneView\33cb56-mainStage.json
-    projectPath: Library\StateCache\SceneView\33cb56-mainStage.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Temp\__Backupscenes\0.backup
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Temp\__Backupscenes\0.backup
-    projectPath: Temp\__Backupscenes\0.backup
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Temp\UnityTempFile-01e9b2803c4d7414683047f074780c14
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Temp\UnityTempFile-01e9b2803c4d7414683047f074780c14
-    projectPath: Temp\UnityTempFile-01e9b2803c4d7414683047f074780c14
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp\UnityTempFile-62783ab9c13eae34eb49feb66e91685d
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Temp\UnityTempFile-62783ab9c13eae34eb49feb66e91685d
-    projectPath: Temp\UnityTempFile-62783ab9c13eae34eb49feb66e91685d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp\UnityTempFile-6c5a6ad1fcd9f164ab5d7e1300c25b29
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Temp\UnityTempFile-6c5a6ad1fcd9f164ab5d7e1300c25b29
-    projectPath: Temp\UnityTempFile-6c5a6ad1fcd9f164ab5d7e1300c25b29
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-b26313a5187fb944cbbee12698db534e
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Temp\UnityTempFile-b26313a5187fb944cbbee12698db534e
-    projectPath: Temp\UnityTempFile-b26313a5187fb944cbbee12698db534e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp\UnityTempFile-c0a4019701b83cb48b740a0d62e1dd89
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Temp\UnityTempFile-c0a4019701b83cb48b740a0d62e1dd89
-    projectPath: Temp\UnityTempFile-c0a4019701b83cb48b740a0d62e1dd89
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp\UnityTempFile-e7cc3544b9d623540abe1d1f1fca7e56
-    fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Temp\UnityTempFile-e7cc3544b9d623540abe1d1f1fca7e56
-    projectPath: Temp\UnityTempFile-e7cc3544b9d623540abe1d1f1fca7e56
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
