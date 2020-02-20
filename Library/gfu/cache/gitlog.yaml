@@ -13,9 +13,293 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-02-19T17:48:54.509-05:00
-  initializedAtString: 2020-02-19T17:48:53.719-05:00
+  lastUpdatedAtString: 2020-02-19T18:13:15.293-05:00
+  initializedAtString: 2020-02-19T18:13:14.992-05:00
   log:
+  - commitID: 06f35c4148113123dd2ebac8bd239c7930dcf78b
+    mergeA: 
+    mergeB: 
+    authorName: AlecVidamo
+    authorEmail: 55145798+AlecVidamo@users.noreply.github.com
+    commitEmail: 55145798+AlecVidamo@users.noreply.github.com
+    commitName: AlecVidamo
+    summary: Added goal script. Added line renderer that will be used to draw shapes
+      on mouse click.
+    description: 
+    timeString: 2020-02-19T18:12:12.000-05:00
+    commitTimeString: 2020-02-19T18:12:12.000-05:00
+    changes:
+    - path: .vs\Click-and-Drag\v16\Server\sqlite3\storage.ide
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\.vs\Click-and-Drag\v16\Server\sqlite3\storage.ide
+      projectPath: .vs\Click-and-Drag\v16\Server\sqlite3\storage.ide
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .vs\Click-and-Drag\v16\Server\sqlite3\storage.ide-shm
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\.vs\Click-and-Drag\v16\Server\sqlite3\storage.ide-shm
+      projectPath: .vs\Click-and-Drag\v16\Server\sqlite3\storage.ide-shm
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .vs\Click-and-Drag\v16\Server\sqlite3\storage.ide-wal
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\.vs\Click-and-Drag\v16\Server\sqlite3\storage.ide-wal
+      projectPath: .vs\Click-and-Drag\v16\Server\sqlite3\storage.ide-wal
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assembly-CSharp.csproj
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Goal_Mat.mat
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Assets\Materials\Goal_Mat.mat
+      projectPath: Assets\Materials\Goal_Mat.mat
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Materials\Line_Mat.mat
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Assets\Materials\Line_Mat.mat
+      projectPath: Assets\Materials\Line_Mat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Line_Mat.mat.meta
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Assets\Materials\Line_Mat.mat.meta
+      projectPath: Assets\Materials\Line_Mat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Level 1.unity
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Assets\Scenes\Level
+        1.unity
+      projectPath: Assets\Scenes\Level 1.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts.meta
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Goal.cs
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Assets\Scripts\Goal.cs
+      projectPath: Assets\Scripts\Goal.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Goal.cs.meta
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Assets\Scripts\Goal.cs.meta
+      projectPath: Assets\Scripts\Goal.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Click-and-Drag.sln
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Click-and-Drag.sln
+      projectPath: Click-and-Drag.sln
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\EditorInstance.json
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\3\321bbf137b1234ea560fecb7ce335254.bin
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\ShaderCache\3\321bbf137b1234ea560fecb7ce335254.bin
+      projectPath: Library\ShaderCache\3\321bbf137b1234ea560fecb7ce335254.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\9\99691a407e4cbe76c84a1107fdb994c3.bin
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\ShaderCache\9\99691a407e4cbe76c84a1107fdb994c3.bin
+      projectPath: Library\ShaderCache\9\99691a407e4cbe76c84a1107fdb994c3.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\9\9d3ae70eaa5a08cd14143b8667f5dda7.bin
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\ShaderCache\9\9d3ae70eaa5a08cd14143b8667f5dda7.bin
+      projectPath: Library\ShaderCache\9\9d3ae70eaa5a08cd14143b8667f5dda7.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\EditorEncounteredVariants
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\ShaderCache\EditorEncounteredVariants
+      projectPath: Library\ShaderCache\EditorEncounteredVariants
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ShaderCache\e\eb5c2be421049eb679138464ac46bcef.bin
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\ShaderCache\e\eb5c2be421049eb679138464ac46bcef.bin
+      projectPath: Library\ShaderCache\e\eb5c2be421049eb679138464ac46bcef.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\09c0ee-mainStage.json
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\StateCache\Hierarchy\09c0ee-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\09c0ee-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\assetDatabase3
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\4d\4d30728f33e4dd0459c6069cec610586
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\metadata\4d\4d30728f33e4dd0459c6069cec610586
+      projectPath: Library\metadata\4d\4d30728f33e4dd0459c6069cec610586
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\4d\4d30728f33e4dd0459c6069cec610586.info
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\metadata\4d\4d30728f33e4dd0459c6069cec610586.info
+      projectPath: Library\metadata\4d\4d30728f33e4dd0459c6069cec610586.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\cc\cc9b0f23fd9a6b545acfd0b809a40965.info
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\metadata\cc\cc9b0f23fd9a6b545acfd0b809a40965.info
+      projectPath: Library\metadata\cc\cc9b0f23fd9a6b545acfd0b809a40965.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\dd\ddfd9f0d9a6cdc84ebb02cfec00afe62
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\metadata\dd\ddfd9f0d9a6cdc84ebb02cfec00afe62
+      projectPath: Library\metadata\dd\ddfd9f0d9a6cdc84ebb02cfec00afe62
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\dd\ddfd9f0d9a6cdc84ebb02cfec00afe62.info
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\metadata\dd\ddfd9f0d9a6cdc84ebb02cfec00afe62.info
+      projectPath: Library\metadata\dd\ddfd9f0d9a6cdc84ebb02cfec00afe62.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\fd\fdab105f7e22bd34ea2a15c62745ac2b
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\metadata\fd\fdab105f7e22bd34ea2a15c62745ac2b
+      projectPath: Library\metadata\fd\fdab105f7e22bd34ea2a15c62745ac2b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\fd\fdab105f7e22bd34ea2a15c62745ac2b.info
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\metadata\fd\fdab105f7e22bd34ea2a15c62745ac2b.info
+      projectPath: Library\metadata\fd\fdab105f7e22bd34ea2a15c62745ac2b.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\shadercompiler-UnityShaderCompiler.exe1.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\shadercompiler-UnityShaderCompiler.exe2.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\shadercompiler-UnityShaderCompiler.exe3.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe4.log
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Library\shadercompiler-UnityShaderCompiler.exe4.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp\__Backupscenes\0.backup
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\Temp\__Backupscenes\0.backup
+      projectPath: Temp\__Backupscenes\0.backup
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: C:\Users\Alec Vidamo\Documents\GitHub\Click-and-Drag\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
   - commitID: c454f75c99b115ff49958fe6ef42f4728233e95a
     mergeA: 
     mergeB: 

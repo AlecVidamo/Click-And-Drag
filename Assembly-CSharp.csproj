@@ -63,6 +63,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\ClickAndDraw.cs" />
     <Compile Include="Assets\Scripts\Goal.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/Alec Vidamo/Documents/GitHub/Click-and-Drag/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
